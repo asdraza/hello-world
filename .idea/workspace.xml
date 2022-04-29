@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b52acad4-8e87-41c2-9f68-8f09590d2ef0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/SimpleBot/SimpleBotPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Sprint5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/control/BlokusDuoPlay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/model/Board.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/model/Gamepiece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/model/GamepieceSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/model/Location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/model/Move.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/model/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/UI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/BlokusGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/GraphicsPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/GraphicsUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/GraphicsUI$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/GraphicsUI$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/GraphicsUI$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/GraphicsUI$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/GraphicsUI$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/GraphicsUI$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/GraphicsUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/PlayScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/StartScreen$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/StartScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/actors/CustomLabel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/actors/GraphicalBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/actors/GraphicalGamePiece$GamePieceListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/graphics/actors/GraphicalGamePiece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/text/TextPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ui/text/TextUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/BoardTest$1Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/BoardTest$2Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/BoardTest$3Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/BoardTest$4Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/BoardTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GamepieceSetTest$1Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GamepieceSetTest$2Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GamepieceSetTest$3Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GamepieceSetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GamepieceTest$1Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GamepieceTest$2Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GamepieceTest$3Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GamepieceTest$4Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GamepieceTest$5Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GamepieceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/LocationTest$1Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/LocationTest$2Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/LocationTest$3Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/LocationTest$4Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/LocationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/MoveTest$1Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/MoveTest$2Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/MoveTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/PlayerTest$1Helper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/PlayerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/TestPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/blokus_duo.atlas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/blokus_duo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/blokus_duo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/city.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/font-export.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/game_squares.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/helvetique.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/play.tmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HardBot/HardBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleBot/SimpleBotPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sprint5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/control/BlokusDuoPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Gamepiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/GamepieceSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/graphics/BlokusGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/graphics/GraphicsPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/graphics/GraphicsUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/graphics/PlayScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/graphics/StartScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/graphics/actors/CustomLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/graphics/actors/GraphicalBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/graphics/actors/GraphicalGamePiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/text/TextPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/text/TextUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/blokus_duo.atlas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/blokus_duo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/blokus_duo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/city.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/font-export.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/game_squares.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/helvetique.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/play.tmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GamepieceSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GamepieceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LocationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MoveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestPlayer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28TXxVLx1CYwvSoUMfX5legBz5t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b52acad4-8e87-41c2-9f68-8f09590d2ef0" name="Changes" comment="" />
+      <created>1651241797881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651241797881</updated>
+      <workItem from="1651241800444" duration="1267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
